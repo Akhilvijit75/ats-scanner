@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+python-docx
+openai
+pandas
+requests
+pytesseract
+os
+json
